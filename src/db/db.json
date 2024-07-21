@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "0876ccf5-3116-40c6-a0c4-80be9f22a9de",
+    "name": "Dolores Huels",
+    "phone": "711-849-9032 x45690",
+    "email": "Rigoberto_Schamberger55@gmail.com",
+    "job": "Customer Creative Representative"
+  },
+  {
+    "id": "4979c105-c3a0-46d1-8c2c-7abccb0d5e65",
+    "name": "Willis Dibbert",
+    "phone": "(557) 318-2864 x3972",
+    "email": "Shawna.Prohaska@hotmail.com",
+    "job": "Senior Markets Liaison"
+  },
+  {
+    "id": "299ca552-fc69-49d3-9760-503adb5779ce",
+    "name": "Ollie Leuschke",
+    "phone": "754-322-7609 x15712",
+    "email": "Hanna_Wunsch51@hotmail.com",
+    "job": "Chief Brand Specialist"
+  },
+  {
+    "id": "b0cb0401-c114-4774-9b15-bfdf0d04951d",
+    "name": "Paulette Bogisich",
+    "phone": "986.502.8552 x26793",
+    "email": "Deron_Hayes71@yahoo.com",
+    "job": "Future Usability Officer"
+  },
+  {
+    "id": "4250c101-9cab-48c3-97d5-422d2bd383d4",
+    "name": "Raul Glover",
+    "phone": "331.738.5730 x407",
+    "email": "Paolo_Bauch49@hotmail.com",
+    "job": "Human Configuration Architect"
+  }
+]
